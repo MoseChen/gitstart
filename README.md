@@ -1,3 +1,3 @@
 # gitstart
 project for git starting
-Switched to branch so quick
+Switched to branch so quick and simple
